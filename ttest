@@ -1,0 +1,15 @@
+gedit
+ 1846  cd my-note/
+ 1847  vim readme 
+ 1848  git push
+ 1849  ssh git@github.com
+ 1850  ssh  -v git@github.com
+ 1851  git push
+ 1852  vim readme
+ 1853  git remote add origin git@github.com:ladao/linus.git
+ 1854  vim readme
+ 1855  git push origin master
+ 1856  vim readme 
+ 1857  git commit -a -m "github"
+ 1858  git push
+
