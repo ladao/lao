@@ -1,4 +1,4 @@
-gedit
+ gedit
  1846  cd my-note/
  1847  vim readme 
  1848  git push
@@ -13,3 +13,5 @@ gedit
  1857  git commit -a -m "github"
  1858  git push
 
+
+ssh git@github.comssh git@github.comssh git@github.com
